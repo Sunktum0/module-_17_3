@@ -1,6 +1,4 @@
-# Домашнее задание по теме "Модели SQLALchemy. Отношения между таблицами."
-# ННазаров ПВ
-# module_17_2.py
+
 
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.orm import relationship

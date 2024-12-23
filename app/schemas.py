@@ -1,6 +1,4 @@
-#
-# ННазаров ПВ
-# module_17.py
+
 
 from pydantic import BaseModel
 
